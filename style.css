@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Heebo', sans-serif;;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6eff6;
+}
+
+#box{
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding-top: 35px;
+    gap: 35px;
+    width: 620px;
+    border-radius: 8px;
+    
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+    color: #26a6a3;
+}
+
+#header div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #c2d466;
+}
+
+#header div p{
+    color: #babcca;
+}
+
+#value{
+    display: flex;
+    align-items: center;
+    background-color: #2bb3b1;
+    color: white;
+    border-radius: 10px;
+}
+
+#value div{
+    padding: 35px;
+    width: 50%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-bottom: 130px;
+    border-radius: 10px;
+}
+
+#value div h3{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 35px;
+}
+
+#value div h3 p{
+    font-size: 18px;
+    color: #62cad8;
+}
+
+#value div button{
+    color: white;
+    border: none;
+    padding: 9px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #bfdf32;
+}
+
+#why{
+    background-color: #57d3d1;
+}
+
+#why h5{
+    color: rgb(215, 248, 238);
+}
