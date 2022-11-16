@@ -4,7 +4,7 @@ README.md
 <br>
 
 <p align="center">
-  <img alt="Grade de Preço" src="./assets/bg.png" width="100%">
+  <img alt="Grade de Preço" src="./assets/bgd.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
